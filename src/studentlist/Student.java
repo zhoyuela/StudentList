@@ -3,6 +3,7 @@ package studentlist;
 /**
  *
  * @author paulbonenfant
+ * change on 2024/05/25 by Yuelan Zhou
  */
 public class Student {
 
@@ -21,21 +22,4 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     } 
-
-    public String getStudentID() {
-        return studentID;
-    }
-
-    public String getAddress() {
-        return address;
-    }
-
-    public void setStudentID(String studentID) {
-        this.studentID = studentID;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
-    
 }
