@@ -3,7 +3,7 @@ package studentlist;
 /**
  *
  * @author paulbonenfant
- * change on 2024/05/25
+ * change on 2024/05/25 by Yuelan Zhou
  */
 public class Student {
 
